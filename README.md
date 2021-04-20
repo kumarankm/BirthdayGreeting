@@ -1,6 +1,6 @@
 # Birthday Greeting Card
 <p align="center">
-<h4>During this lockdown, the online service has become popular. So what if we add a birthday greeting card to our project.</h4>
+<h4>During this lockdown, the online service has become popular. So what if we create a birthday greeting card to my project.</h4>
 
 ![BirthdayGreeting](https://user-images.githubusercontent.com/60292723/115341065-7ea05c80-a1c5-11eb-9265-7076e19b421a.gif)
 
